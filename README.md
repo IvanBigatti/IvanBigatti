@@ -3,10 +3,6 @@
 ## About Me
 I am a student at UTN FRC (National Technological University, Córdoba Regional Faculty). I love learning new things and collaborating on interesting projects.
 
-## Interests
-- 🔧 Software Development
-- 💻 Artificial Intelligence and Machine Learning
-- 📊 Data Analysis
 
 
 ## How to Reach Me
