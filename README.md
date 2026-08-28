@@ -7,7 +7,7 @@ I am a student at UTN FRC (National Technological University, Córdoba Regional 
 
 ## How to Reach Me
 - 📫 Email: [ivanbigatti@gmail.com](mailto:ivanbigatti@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ivan-imwinkelried-a8758a205/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ivan-imwinkelried/)
 
 ---
 
