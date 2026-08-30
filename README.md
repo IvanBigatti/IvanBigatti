@@ -5,7 +5,7 @@
 
 
 #💻 Tech Stack
-HTML5 CSS3 JavaScript Python Java 
+HTML5 CSS3 JavaScript ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) Java 
 React ReactNative TypeScript GraphQL TailwindCSS Next.js Node.js
 
 ## How to Reach Me
