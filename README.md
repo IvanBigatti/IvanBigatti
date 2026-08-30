@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Iván Imwinkelried (@IvanBigatti)
 
-## About Me
-I am a student at UTN FRC (National Technological University, Córdoba Regional Faculty). I love learning new things and collaborating on interesting projects.
+👨🏻‍🎓 Studying Systems of Information Engineering at the National Technological University, Cordoba Argentina
 
 
+
+#💻 Tech Stack
+HTML5 CSS3 JavaScript Python Java 
+React ReactNative TypeScript GraphQL TailwindCSS Next.js Node.js
 
 ## How to Reach Me
 - 📫 Email: [ivanbigatti@gmail.com](mailto:ivanbigatti@gmail.com)
